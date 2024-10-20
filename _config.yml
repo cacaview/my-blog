@@ -13,7 +13,7 @@ language:
   - en
 timezone: ''
 avatar: https://avatars.githubusercontent.com/u/93422894?v=4&size=64
-favicon:
+favicon: https://gcore.jsdelivr.net/gh/xaoxuu/assets@master/favicon/favicon.ico
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
